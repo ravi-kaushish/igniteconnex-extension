@@ -5,6 +5,8 @@ This chrome extension gives you an easy access to all the IgniteConnex Connector
 ## Steps to build the extension
 
 1. Clone the repository
+   ![image](https://github.com/ravi-kaushish/igniteconnex-extension/assets/56352064/5f47b0f1-071a-4929-b921-1f78f446835e)
+
 ##
 2. run **npm i** to install required packages.
 ##
