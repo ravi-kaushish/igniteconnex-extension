@@ -1,0 +1,13 @@
+{
+  "name": "IgniteConnex Connectors & ChatGPT",
+  "description": "This will present all the Connectors and Flows, also provide a shortcut to ChatGPT",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": [
+    "tabs",
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
